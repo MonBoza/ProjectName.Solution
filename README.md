@@ -8,7 +8,7 @@
 
 * C#
 * MS TEST
-* dotnet
+* .NET
 
 
 ## Description
